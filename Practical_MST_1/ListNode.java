@@ -1,6 +1,6 @@
 /**
  * Leetcode 86
- * 
+ * partitions list
  */
 
 //   Definition for singly-linked list.
